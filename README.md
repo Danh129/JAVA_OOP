@@ -32,10 +32,10 @@ Dữ liệu được tổ chức theo các nhóm module chuyên biệt:
 * **Công cụ:** Apache NetBeans IDE 25
 
 ## 🚀📈 Mục tiêu dựa án
-[x] Hoàn thành các bài tập cơ bản.
-[x] Xây dựng hệ thống quản lý bệnh viện đa tầng.
-[ ] Xây dựng hệ thống quản lý Drone
-[ ] Tối ưu hóa các thuật toán trong phần LuyenCode.
+* Hoàn thành các bài tập cơ bản.
+* Xây dựng hệ thống quản lý bệnh viện đa tầng.
+* Xây dựng hệ thống quản lý Drone
+* Tối ưu hóa các thuật toán trong phần LuyenCode.
 
 ## 👤 Thông tin tác giả
 * Họ tên: Lê Thanh Danh
